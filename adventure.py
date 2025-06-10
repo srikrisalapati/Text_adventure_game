@@ -1,5 +1,5 @@
 import time
-# This is the personality knowing game with your adventurous thinking
+# This is the personality knowing game with your adventurous thinking ideas
 def get_player_choice(prompt, options):
     """
     Displays a prompt and a list of options, and safely gets the player's choice.
